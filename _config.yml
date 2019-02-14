@@ -8,7 +8,7 @@ title: "Data Storyteller"
 description: > # this means to ignore newlines until "email:"
    Dreamgonfly's blog
 
-email: dreamgonfly@gmail.com
+email: evertys2004@gmail.com
 #blog logo
 logo: "/assets/images/dragonfly_moon.jpg"
 float_logo: false # true, false (default)
@@ -22,13 +22,13 @@ author_image: "/assets/images/dragonfly_moon.jpg"
 
 paginate:	5
 
-url: "https://dreamgonfly.github.io" # the base hostname & protocol for your site
+url: "https://seokgiyoon.github.io" # the base hostname & protocol for your site
 baseurl: ""
 #used to display twitter cards
-twitter_handle: '@dreamgonfly'
+twitter_handle: ''
 
 #fill in disqus shortname to use disqus
-disqus: dreamgonfly-blog
+disqus: seokgiyoon-blog
 
 google_analytics: UA-91026007-2
 
@@ -49,7 +49,7 @@ social:
     share_link: "&amp;u="
 
   - icon:	github
-    url:	https://github.com/dreamgonfly
+    url:	https://github.com/seokgiyoon
     desc:	Fork me on github
     share_url:
     share_title:
