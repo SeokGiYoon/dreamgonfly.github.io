@@ -10,8 +10,6 @@ comments: true
 HackerrankでHourglassを解決
 
 # 課題
-
-**새 가상 환경 만들기** 
 Given a  2D Array, :
 
 ```shell
