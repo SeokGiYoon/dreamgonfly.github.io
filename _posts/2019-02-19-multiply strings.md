@@ -7,7 +7,7 @@ image:
 comments: true
 ---
 
-Multiply Strings
+LeetCodeでアルゴリズムを解決！
 
 # 課題
 Given two non-negative integers num1 and num2 represented as strings, return the product of num1 and num2, also represented as a string.
