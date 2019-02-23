@@ -10,7 +10,7 @@ description: > # this means to ignore newlines until "email:"
 
 email: evertys2004@gmail.com
 #blog logo
-logo: "/assets/images/favicon.jpg"
+logo: "/assets/images/sgImage.jpg"
 float_logo: false # true, false (default)
 
 # blog cover
