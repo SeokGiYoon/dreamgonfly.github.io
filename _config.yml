@@ -10,7 +10,7 @@ description: > # this means to ignore newlines until "email:"
 
 email: evertys2004@gmail.com
 #blog logo
-logo: "/assets/images/large.jpg"
+logo: "/assets/images/favicon.jpg"
 float_logo: false # true, false (default)
 
 # blog cover
@@ -18,11 +18,6 @@ cover: "/assets/images/cA4aKEIPQrerBnp1yGHv_IMG_9534-3-2.jpg"
 
 name: 'SeokgiYoon'
 author: 'SeokgiYoon'
-author_image: "/assets/images/large.jpg"
-
-paginate:	5
-
-url: "https://seokgiyoon.github.io" # the base hostname & protocol for your site
 baseurl: ""
 #used to display twitter cards
 twitter_handle: ''
